@@ -25,9 +25,9 @@ public class test{
         if (st1.equals("*")) {
             answer = num1.multiply(num2);
         }
-        if (st1.equals("/")) {
-            answer = num1.divide(num2);
-        }
+        //if (st1.equals("/")) {
+            //answer = num1.divide(num2);
+        //}
         return answer;
         //System.out.print(answer);
     }
